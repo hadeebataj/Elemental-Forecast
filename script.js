@@ -23,8 +23,7 @@ searchCity = () => {
       showWeatherData(response);
   }).catch((error) => {
       console.log(error);
-  })
-
+  });
 }
 
 showWeatherData = (weatherData) => {
