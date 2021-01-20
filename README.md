@@ -1,1 +1,3 @@
-# weather-app website link: https://elegant-roentgen-15b427.netlify.app/
+# Elemental Forecast
+### It is a basic HTML, CSS and Javascript app that uses weather data from API and displays detailed forcast of the day. </br>
+### Website link: https://elegant-roentgen-15b427.netlify.app/
